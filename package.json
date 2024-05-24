@@ -31,6 +31,8 @@
     "recast": "0.21.0"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.0.2",
+    "@aws-amplify/backend-cli": "^1.0.3",
     "@types/qrcode": "^1.5.1",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
